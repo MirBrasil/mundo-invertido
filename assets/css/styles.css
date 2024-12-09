@@ -218,6 +218,14 @@ section {
     margin-bottom: 95px;
 }
 
+#section-inverted-world {
+  margin-top: -200px;
+}
+
+#section-inverted-world h1 {
+  max-width: 60%;
+}
+
 .container {
     max-width: 1200px;
 }
