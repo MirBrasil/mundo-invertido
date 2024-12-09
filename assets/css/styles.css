@@ -185,7 +185,7 @@
 }
 
 .world-characters#bottom-characters {
-    height: 560px;
+    height: 460px;
     background-color: var(--character-bottom-image-color);
     top: 3px;
     transform: rotateZ(180deg) scaleX(-1);
