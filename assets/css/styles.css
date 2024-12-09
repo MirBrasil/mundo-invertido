@@ -260,6 +260,8 @@ section {
 }
 
 #section-stranger-things-gallery {
+    margin-top: 60px;
+    margin-bottom: 140px;
     width: 100%;
     justify-content: center;
     background: var(--background-lamp-image) 120% / 50% no-repeat;
